@@ -4,7 +4,7 @@ import (
 	"crypto/tls"
 	"fmt"
 	"github.com/lucas-clemente/quic-go"
-	"github.com/mgranderath/dnsperf/clients"
+	"github.com/Lucapaulo/dnsperf/clients"
 	"github.com/rs/xid"
 	"net"
 	"strconv"
